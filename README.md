@@ -1,6 +1,10 @@
 # devops-10-07
 This is a DevOps Best Practices Repo
 
+To get started do this:
+
+`source ~/.venv/bin/activate`
+
 ## Create a scaffold
 
 * `requirements.txt`: packages
