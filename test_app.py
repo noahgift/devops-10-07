@@ -1,5 +1,5 @@
-from app import hello
+from app import change
 
 
-def test_hello():
-    assert "bob" in hello("bob")
+def test_change():
+    assert [{5: 'quarters'}] == change(1.25)
