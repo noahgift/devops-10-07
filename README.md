@@ -1,3 +1,5 @@
+[![Click CLI Test](https://github.com/noahgift/devops-10-07/actions/workflows/blank.yml/badge.svg)](https://github.com/noahgift/devops-10-07/actions/workflows/blank.yml)
+
 # devops-10-07
 This is a DevOps Best Practices Repo
 
