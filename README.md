@@ -21,3 +21,7 @@ Also include build server YAML files:
 ## Watch on YouTube
 
 https://www.youtube.com/watch?v=_bJO1uX3yqU
+
+## Watch on O'Reilly
+
+[Python CI/CD for the Command Line](https://learning.oreilly.com/videos/python-ci-cd-for/10092021VIDEOPAIML/10092021VIDEOPAIML-c1_s0/)
